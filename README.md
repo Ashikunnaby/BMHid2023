@@ -1,5 +1,4 @@
 # BMHid2023
-<!DOCTYPE html>
 <html>
 	<head>
 		<title>WELCOME TO BMH</title>
@@ -223,15 +222,3 @@
 
 	</body>
 </html>
-
-<!--
-OUR ACTIVITIES-
-1. SOURCING
-2. COSTING
-3. SKILL DEVELOPMENT
-4. CSR
-5. AGM
-6. GET TOGETHER
-7. CV BANK
-8. ANNUAL PICNIC
-9. AND MANY MORE>--
