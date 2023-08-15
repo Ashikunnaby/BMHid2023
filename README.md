@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>WELCOME TO BMH</title>
