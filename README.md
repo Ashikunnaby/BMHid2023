@@ -1,16 +1,13 @@
 # BMH id 2023
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>WELCOME TO BMH</title>
-	</head>
 	<body>
 		<img	src="final logo.jpg" width="150px" height="130px">
 		<br>
 		<h2>WELCOME TO</h2>
 		<h1>BANGLADESH MERCHANDISER HUB</h1>
 		<h3>Find Your Membership ID NUMBER please:</h3>
-			<strong>BMH ID	&nbsp	&nbsp	&nbsp	&nbsp	Your Name</strong>			<br>
+			<strong>BMH ID	&nbsp;	&nbsp;	&nbsp;	&nbsp;	Your Name</strong>	<br>
 			BMH2023001	Sayeed Mahmud	<br>
 			BMH2023002	Mohammed Ashikun Naby Chowdury	<br>
 			BMH2023003	K.M.Nizamuddin	<br>
