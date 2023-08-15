@@ -1,4 +1,5 @@
 # BMH id 2023
+<!DOCTYPE html>
 <html>
 	<head>
 		<title>WELCOME TO BMH</title>
